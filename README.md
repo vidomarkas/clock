@@ -1,4 +1,4 @@
 #  JS clock
 javascript + css clock
 
-[See it here](jolly-leakey-bd8647.netlify.com)
+[See it here](https://jolly-leakey-bd8647.netlify.com/)
